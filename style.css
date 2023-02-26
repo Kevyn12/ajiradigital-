@@ -1,0 +1,63 @@
+html{
+	background-color: #00134e;
+	margin: auto;}
+body {
+	font-family: Arial, sans-serif;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
+
+
+header {
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+	margin: 0;
+}
+
+main {
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 30px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+input[type="text"], input[type="email"], textarea {
+	padding: 5px;
+	width: 100%;
+}
+
+input[type="submit"] {
+	background-color: #333;
+	border: none;
+	color: white;
+	cursor: pointer;
+	padding: 10px;
+}
+
+input[type="submit"]:hover {
+	background-color: #555;
+}
